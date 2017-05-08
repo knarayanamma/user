@@ -1,0 +1,2 @@
+class Bhargavi < ApplicationRecord
+end
