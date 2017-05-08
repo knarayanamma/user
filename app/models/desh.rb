@@ -1,0 +1,2 @@
+class Desh < ApplicationRecord
+end
